@@ -103,8 +103,8 @@ ForegroundPositive=0,150,135
 ForegroundVisited=0,188,212
 
 [General]
-ColorScheme=Midnight-Red
-Name=Midnight (Red)
+ColorScheme=Midnight Red
+Name=Midnight Red
 shadeSortColumn=true
 
 [KDE]

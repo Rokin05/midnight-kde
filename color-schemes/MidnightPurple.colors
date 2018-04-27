@@ -48,7 +48,7 @@ ForegroundVisited=61,174,230
 
 [Colors:Selection]
 BackgroundAlternate=102,73,126
-BackgroundNormal=140,178,2
+BackgroundNormal=51,43,64
 DecorationFocus=28,31,37
 DecorationHover=28,31,37
 ForegroundActive=252,252,252
@@ -103,8 +103,8 @@ ForegroundPositive=0,150,135
 ForegroundVisited=0,188,212
 
 [General]
-ColorScheme=Midnight-Green
-Name=Midnight (Green)
+ColorScheme=Midnight Purple
+Name=Midnight Purple
 shadeSortColumn=true
 
 [KDE]
