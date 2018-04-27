@@ -3,7 +3,7 @@
   <img src="https://raw.githubusercontent.com/Rokin05/midnight-kde/master/INFO/screenshots/preview.1.png" alt="Preview Midnight KDE"/>
   <a href="https://raw.githubusercontent.com/Rokin05/midnight-kde/master/INFO/screenshots/preview.2.png"><img src="https://raw.githubusercontent.com/Rokin05/midnight-kde/master/INFO/screenshots/thumbs/mini.preview.2.png" alt="Preview Midnight KDE"/></a> <a href="https://raw.githubusercontent.com/Rokin05/midnight-kde/master/INFO/screenshots/preview.3.png"><img src="https://raw.githubusercontent.com/Rokin05/midnight-kde/master/INFO/screenshots/thumbs/mini.preview.3.png" alt="Preview Midnight KDE"/></a> <a href="https://raw.githubusercontent.com/Rokin05/midnight-kde/master/INFO/screenshots/preview.4.png"><img src="https://raw.githubusercontent.com/Rokin05/midnight-kde/master/INFO/screenshots/thumbs/mini.preview.4.png" alt="Preview Midnight KDE"/></a>
 </p><p align="center">
-  <sup><sub>Screenshot Details: Engine: <a href="https://github.com/tsujan/Kvantum/tree/master/Kvantum">Kvantum</a> | Kvantum Theme: Midnight | Aurorae decoration: Midnight | Plasma Theme: Midnight | Icons: <a href="https://github.com/PapirusDevelopmentTeam/papirus-icon-theme">Papirus-Adapta-Nokto</a> | Dock: <a href="https://github.com/psifidotos/Latte-Dock">Latte Dock</a></sub></sup></p>
+  <sup><sub>Screenshot Details: Engine: <a href="https://github.com/tsujan/Kvantum/tree/master/Kvantum">Kvantum</a> | Kvantum Theme: Midnight | Aurorae decoration: Midnight | Plasma Theme: Midnight | Dock: <a href="https://github.com/psifidotos/Latte-Dock">Latte Dock</a></sub></sup></p>
 
 Midnight KDE - This is a dark theme for Plasma 5 desktop with five color declinations and three Window decoration (Aurorae) : Classic, Ribon and OSX.
 
