@@ -1,0 +1,23 @@
+[Desktop Entry]
+Comment=Midnight Style
+
+Encoding=UTF-8
+Keywords=Desktop;Workspace;Appearance;Look and Feel;Logout;Lock;Suspend;Shutdown;Hibernate;
+Name=Midnight
+
+Type=Service
+
+X-KDE-ServiceTypes=Plasma/LookAndFeel
+X-KDE-ParentApp=
+X-KDE-PluginInfo-Author=Rokin
+X-KDE-PluginInfo-Category=
+X-KDE-PluginInfo-Email=
+X-KDE-PluginInfo-License=CCPL:by-sa
+X-KDE-PluginInfo-Name=org.kde.midnight
+X-KDE-PluginInfo-Version=
+X-KDE-PluginInfo-Website=https://github.com/Rokin05/midnight-kde
+X-KDE-fallbackPackage=org.kde.breeze.desktop
+X-Plasma-MainScript=defaults
+X-KPackage-Dependencies=kns://colorschemes.knsrc/api.kde-look.org/1231507,kns://plasma-themes.knsrc/api.kde-look.org/1231508,kns://aurorae.knsrc/api.kde-look.org/1231511,kns://sddmtheme.knsrc/api.kde-look.org/1231512
+
+
