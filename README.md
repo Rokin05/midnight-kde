@@ -7,7 +7,8 @@
 
   
 
-Midnight KDE 
+Midnight KDE :
+
 This is a dark theme for KDE Plasma 5 desktop with five color declinations and three Window decoration (Aurorae) : Classic, Ribon and OSX.
 
 In this repository you'll find:
