@@ -6,6 +6,7 @@
   <sup><sub>Screenshot Details: Engine: <a href="https://github.com/tsujan/Kvantum/tree/master/Kvantum">Kvantum</a> | Kvantum Theme: Midnight | Aurorae decoration: Midnight | Plasma Theme: Midnight | Dock: <a href="https://github.com/psifidotos/Latte-Dock">Latte Dock</a></sub></sup></p>
 
   
+
 Midnight KDE 
 This is a dark theme for KDE Plasma 5 desktop with five color declinations and three Window decoration (Aurorae) : Classic, Ribon and OSX.
 
