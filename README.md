@@ -5,16 +5,20 @@
 </p><p align="center">
   <sup><sub>Screenshot Details: Engine: <a href="https://github.com/tsujan/Kvantum/tree/master/Kvantum">Kvantum</a> | Kvantum Theme: Midnight | Aurorae decoration: Midnight | Plasma Theme: Midnight | Dock: <a href="https://github.com/psifidotos/Latte-Dock">Latte Dock</a></sub></sup></p>
 
-Midnight KDE - This is a dark theme for Plasma 5 desktop with five color declinations and three Window decoration (Aurorae) : Classic, Ribon and OSX.
+  
+Midnight KDE 
+This is a dark theme for KDE Plasma 5 desktop with five color declinations and three Window decoration (Aurorae) : Classic, Ribon and OSX.
 
 In this repository you'll find:
 
-- Aurorae Themes
-- Kvantum Themes
-- Plasma Color Schemes
-- Plasma Desktop Themes
-- Plasma Look-and-Feel Settings
-- SDDM Theme
+- [Plasma Look-and-Feel Pack](https://www.opendesktop.org/p/1231509/)
+- [Plasma Desktop Themes](https://www.opendesktop.org/p/1231508/)
+- [Plasma Color Schemes](https://www.opendesktop.org/p/1231507/)
+- [Aurorae Themes](https://www.opendesktop.org/p/1231511/)
+- [Kvantum Themes](https://www.opendesktop.org/p/1231510/)
+- [SDDM Theme](https://www.opendesktop.org/p/1231512/)
+
+
 
 ## Installation
 
