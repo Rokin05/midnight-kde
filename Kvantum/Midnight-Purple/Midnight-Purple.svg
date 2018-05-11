@@ -316,8 +316,6 @@
     <path id="tooltip-shadow-hint-top" d="m40.749977 295.48438h2.5v8h-2.5z" style="fill:#b74aff"/>
     <path id="tooltip-shadow-hint-right" d="m-327.48438 66.000015h2.5v8h-2.5z" style="fill:#b74aff" transform="rotate(-90)"/>
     <path id="tooltip-shadow-hint-left" d="m-328.73438 10.000008h2.5v8h-2.5z" style="fill:#b74aff" transform="rotate(-90)"/>
-    <use id="progress-pattern-focused" height="1380" style="" transform="translate(25)" width="450" xlink:href="#progress-pattern-normal"/>
-    <use id="progress-pattern-toggled" height="1380" style="" transform="translate(50)" width="450" xlink:href="#progress-pattern-normal"/>
     <use id="arrow-down-normal" height="1380" style="" transform="matrix(1 0 0 -1 -.000041 1004.1238)" width="450" xlink:href="#arrow-up-normal"/>
     <use id="arrow-right-normal" height="1380" style="" transform="matrix(0 1 -1 0 643.91249 460.21119)" width="450" xlink:href="#arrow-up-normal"/>
     <use id="arrow-left-normal" height="1380" style="" transform="matrix(0 -1 1 0 -330.21113 543.91249)" width="450" xlink:href="#arrow-up-normal"/>
@@ -1183,7 +1181,7 @@
         <path id="radio-focused-mid" d="m34 389a6 6.000824 0 0 1 -5.999791 6.00082 6 6.000824 0 0 1 -6.000209-6.0004 6 6.000824 0 0 1 5.999372-6.00124 6 6.000824 0 0 1 6.000628 5.99998l-6 .00084z" style="opacity:.22;stroke:#000000;stroke-width:.05;fill:url(#linearGradient1817)"/>
         <rect id="radio-focused-border-overlay" height="14" rx="7" style="opacity:.15;fill:none;stroke:#ffffff;stroke-width:2" width="14" x="21" y="382"/>
     </g>
-    <g style="fill:none">
+    <g id="g987" style="fill:none">
         <path id="grip-normal" d="m213.4922 320h4.50779v16h-4.50779z" style="opacity:.01"/>
         <path id="grip-focused" d="m218.9922 320h4.50779v16h-4.50779z" style="opacity:.01"/>
         <path id="grip-pressed" d="m224.4922 320h4.50779v16h-4.50779z" style="opacity:.01"/>
@@ -1194,4 +1192,6 @@
         <path id="separator-b1" d="m544 46h1v10h-1z" style="opacity:.12"/>
         <path id="separator-b2" d="m545 46h1v10h-1z" style="opacity:.01;fill:#999999"/>
     </g>
+    <use id="progress-pattern-focused" height="1380" style="" transform="translate(23.503391 .113017)" width="450" xlink:href="#progress-pattern-normal"/>
+    <use id="progress-pattern-toggled" height="1380" style="" transform="translate(48.503391 .113017)" width="450" xlink:href="#progress-pattern-normal"/>
 </svg>
