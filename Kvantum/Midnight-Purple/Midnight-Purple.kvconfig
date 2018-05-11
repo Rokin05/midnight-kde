@@ -30,7 +30,7 @@ center_toolbar_handle=true
 slim_toolbars=false
 toolbutton_style=1
 spread_progressbar=false
-progressbar_thickness=18
+progressbar_thickness=16
 menubar_mouse_tracking=true
 merge_menubar_with_toolbar=true
 composite=true
@@ -75,11 +75,11 @@ dark_titlebar=true
 [GeneralColors]
 window.color=#1a1d22
 base.color=#1a1d22
-alt.base.color=#1d2025
+alt.base.color=#1c1f24
 mid.light.color=#00000033
-light.color=#332b4033
+light.color=#30254533
 dark.color=#0000004c
-#mid.color=#121418
+mid.color=#18181e
 highlight.color=#272c34
 button.color=#202126
 tooltip.base.color=#202126
@@ -261,12 +261,15 @@ text.margin.left=2
 text.margin.right=2
 frame.expansion=0
 
+[ToolbarLineEdit]
+frame.element=lineedit
+
 [DropDownButton]
 inherits=PanelButtonCommand
 indicator.element=arrow-down
 
 [IndicatorArrow]
-indicator.element=arrow
+indicator.element=menu-arrow
 indicator.size=9
 
 [ToolboxTab]
@@ -314,10 +317,10 @@ inherits=PanelButtonCommand
 interior.element=table
 frame.element=table
 interior=true
-frame.top=1
-frame.bottom=1
-frame.left=1
-frame.right=1
+frame.top=2
+frame.bottom=2
+frame.left=2
+frame.right=2
 text.normal.color=#6c6f7b
 text.focus.color=#ffffffc8
 text.press.color=#ffffffc8
@@ -344,7 +347,7 @@ indicator.size=5
 [ToolbarButton]
 frame.element=tbutton
 interior.element=tbutton
-indicator.element=tarrow
+indicator.element=toolbar-arrow
 text.normal.color=#6c6f7b
 text.focus.color=#ffffffc8
 text.press.color=#ffffffc8
@@ -423,10 +426,10 @@ indicator.size=8
 inherits=PanelButtonCommand
 frame.element=scrollbarslider
 interior.element=scrollbarslider
-frame.top=3
-frame.bottom=3
-frame.left=3
-frame.right=3
+frame.top=1
+frame.bottom=1
+frame.left=1
+frame.right=1
 indicator.element=grip
 indicator.size=16
 
@@ -519,6 +522,10 @@ text.press.color=#6c6f7b
 text.toggle.color=#6c6f7b
 frame.expansion=0
 
+[ToolbarComboBox]
+frame.element=combo
+indicator.element=toolbar-arrow-down
+
 [Menu]
 inherits=PanelButtonCommand
 frame.top=1
@@ -538,10 +545,10 @@ interior=true
 interior.element=group
 text.shadow=0
 text.margin=0
-frame.top=3
-frame.bottom=3
-frame.left=3
-frame.right=3
+frame.top=2
+frame.bottom=2
+frame.left=2
+frame.right=2
 text.normal.color=#6c6f7b
 text.focus.color=#6c6f7b
 
@@ -565,3 +572,5 @@ frame.element=tooltip
 
 [Window]
 interior=false
+interior.element=window
+text.bold=false
